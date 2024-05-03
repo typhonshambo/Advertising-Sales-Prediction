@@ -1,4 +1,3 @@
-# main.py
 from preprocessing.data_processing import load_data, preprocess_data, split_data
 from models.model_building import build_linear_regression_model
 from evaluation.evaluation import evaluate_model
